@@ -10,6 +10,12 @@ This project uses a Long Short-Term Memory (LSTM) neural network to generate mus
 4. **Model Training**: An LSTM network is trained to predict the next note in a sequence given the previous 100 notes.
 5. **Music Generation**: After training, the model can generate new sequences of notes, which are converted back to MIDI format.
 
+## Music samples
+
+<video src="https://github.com/user-attachments/assets/b1242513-7013-4090-ac0a-f0032dbde412" controls/></video>
+
+<video src="https://github.com/user-attachments/assets/e6eb6a2a-a628-48dc-ad34-9ec0ab8ed3ce" controls/></video>
+
 ## Dependencies
 
 - Python 3.x
